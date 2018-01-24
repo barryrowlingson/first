@@ -1,4 +1,4 @@
-FROM rocker/r-base
+FROM rocker/geospatial
 
 WORKDIR /app
 
