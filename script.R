@@ -2,6 +2,7 @@
 
 library(docopt)
 
+message("Running script")
 
 doc <- "Usage: script.R -n count
 
